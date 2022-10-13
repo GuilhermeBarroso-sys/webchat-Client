@@ -1,0 +1,8 @@
+.nicknameInput {
+  width:40%;
+  border:0;
+  background-color: white;
+  outline: 0;
+  padding:0.3rem;
+  cursor: pointer;
+}
